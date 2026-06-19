@@ -167,35 +167,6 @@ The insights generated from this analysis can help businesses:
 * Sales Analytics
 * Business Analytics
 * Python Programming
-
----
-
-## 🚀 Getting Started
-
-### Clone Repository
-
-```bash
-git clone https://github.com/yourusername/customer-ecommerce-sales-analytics.git
-```
-
-### Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### Run Notebook
-
-```bash
-jupyter notebook
-```
-
-Open:
-
-```text
-scripts/customer_ecommerce_analysis.ipynb
-```
-
 ---
 
 ## 📄 Business Report
