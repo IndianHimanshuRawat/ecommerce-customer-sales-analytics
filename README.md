@@ -169,16 +169,6 @@ The insights generated from this analysis can help businesses:
 * Python Programming
 ---
 
-## 📄 Business Report
-
-A detailed business report containing insights, visualizations, findings, and recommendations is available in:
-
-```text
-business_report/Customer_Ecommerce_Analytics_Report.pdf
-```
-
----
-
 ## 👨‍💻 Author
 
 **Himanshu Rawat**
