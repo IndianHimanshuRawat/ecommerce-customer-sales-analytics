@@ -1,4 +1,4 @@
-# Dataset
+# Datasets
 This project uses the Ecommerce Customer Sales dataset from Kaggle.
 
 Dataset Link:
