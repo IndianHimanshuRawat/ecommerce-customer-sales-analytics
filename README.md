@@ -53,8 +53,6 @@ customer-ecommerce-sales-analytics/
 ├── business_report/
 │   └── Customer_Ecommerce_Analytics_Report.pdf
 │
-├── requirements.txt
-│
 └── README.md
 ```
 
