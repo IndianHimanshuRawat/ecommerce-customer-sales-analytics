@@ -39,13 +39,7 @@ This analysis aims to answer the following business questions:
 customer-ecommerce-sales-analytics/
 
 ├── datasets/
-│   ├── customers.csv
-│   ├── orders.csv
-│   ├── order_items.csv
-│   ├── order_payments.csv
-│   ├── order_reviews.csv
-│   ├── products.csv
-│   └── sellers.csv
+│   ├── Dataset Link: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce 
 │
 ├── scripts/
 │   └── customer_ecommerce_analysis.ipynb
