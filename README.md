@@ -171,6 +171,5 @@ The insights generated from this analysis can help businesses:
 
 **Himanshu Rawat**
 
-Aspiring Data Analyst | SQL | Python | Statistics | Data Visualization
-
+Aspiring Data Analyst
 Passionate about transforming data into actionable business insights.
